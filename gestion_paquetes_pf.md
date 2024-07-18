@@ -88,10 +88,11 @@ El proyecto consiste en desarrollar un sistema de gestión de paquetería que pe
 ```
 
 #### Registrar una actualización de estado (`POST /tracking`)
+```json
 {
   "packageId": "PKG12345",
   "status": "In Transit",
   "timestamp": "2024-07-18T10:00:00",
   "location": "Santo Domingo"
 }
-
+```

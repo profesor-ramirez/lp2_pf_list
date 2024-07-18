@@ -51,7 +51,6 @@ El proyecto consiste en desarrollar un sistema de gestión de gimnasio que permi
 
 
 ## Requisitos Técnicos:
-1. **Backend (.NET):**
    - Crear una API RESTful utilizando ASP.NET Core.
    - Utilizar Entity Framework Core para la gestión de la base de datos.
    - Implementar controladores y servicios para manejar las operaciones CRUD.

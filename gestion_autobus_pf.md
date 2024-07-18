@@ -22,6 +22,11 @@ El proyecto consiste en desarrollar un sistema de gestión de autobuses que perm
    - Actualizar horarios.
    - Eliminar horarios.
 
+4. **Reservas:**
+   - Crear reservas.
+   - Listar todas las reservas.
+   - Eliminar reservas.
+   
 ## Endpoints de la API:
 1. **Autobuses:**
    - `GET /buses` - Listar todos los autobuses.
